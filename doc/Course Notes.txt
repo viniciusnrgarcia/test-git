@@ -41,9 +41,40 @@ $ git status
 $ git log
 
 
+6. Adicionar um repositório remote
+
+$ git remote add test-spring-data https://github.com/viniciusnrgarcia/test-spring-data.git
+
+Sintaxe: git remote add [nomecurto] [url] 
+Obs.: Nome curto é o nome para utilizar como referencia para realizar o commit das informações.
+
+7. Adicionar os arquivos para a State Area, e realizar o Commit.
+
+$ git add .
+$ git commit
+
+8. Realizar o PUSH para o repositorio remote:
+
+$ git push test-spring-data
+
+Sintaxe: git push <nome do repositorio remoto>
+
+Informar usuario e senha.
+
+6.1 Verificar repositorios remotos
+
+$ git remote -v
+
 6. Realizando commit remote. 
 
-$
+$ git commit -m "Comentário".
+
+$ git push
+
+
+7. Clonar repositorio existen
+
+$ git clone git://github.com/viniciusnrgarcia/test-git.git 
 
 
 
