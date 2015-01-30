@@ -1,11 +1,13 @@
+Vinicius Garcia
+
 Curso
 http://www.devmedia.com.br/curso/curso-controle-de-versao-com-git/380
 
 Notas
 
-Curso de Controle de Vers„o com GIT
+Curso de Controle de Vers√£o com GIT
 
-1. ConfiguraÁ„o pode ser feita em 3 nÌveis
+1. Configura√ß√£o pode ser feita em 3 n√≠veis
 	Usuario
 	Sistema
 	Projeto
@@ -15,15 +17,15 @@ git config --global user.email "viniciusnrgarcia@gmail.com"
 git config --global color.ui true
 
 
-2. Inicia o controle de vers„o sobre o repositÛrio
+2. Inicia o controle de vers√£o sobre o reposit√≥rio
 
-$ git init -- No diretÛrio raiz do projeto que deseja ser versionado.
+$ git init -- No diret√≥rio raiz do projeto que deseja ser versionado.
 
 3. Para excluir arquivos por exemplo .class criar um arquivo .gitignore na raiz do projeto versionado.
 
 $ notepad .gitignore
 
-Adicionar o conte˙do e salvar o mesmo
+Adicionar o conte√∫do e salvar o mesmo
 *.class
 
 $ cat .gitignore
@@ -31,7 +33,7 @@ $ cat .gitignore
 4. Adicionando e realizando o commit dos arquivos.
 
 $ git add .
-$ git commit -m "mensagem do commit". -- comando -m para adicionar uma mensagem curta como boas pr·ticas.
+$ git commit -m "mensagem do commit". -- comando -m para adicionar uma mensagem curta como boas pr√°ticas.
 $ git status
 
 5. Para verificar o log utilizar o comendo:
