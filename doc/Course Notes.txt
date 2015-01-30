@@ -39,3 +39,12 @@ $ git status
 5. Para verificar o log utilizar o comendo:
 
 $ git log
+
+
+6. Realizando commit remote. 
+
+$
+
+
+
+
