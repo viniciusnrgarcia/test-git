@@ -1,6 +1,6 @@
 Vinicius Garcia
 
-Curso
+Curso DevMedia
 http://www.devmedia.com.br/curso/curso-controle-de-versao-com-git/380
 
 Notas
